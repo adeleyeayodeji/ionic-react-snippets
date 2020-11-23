@@ -2,7 +2,7 @@
 
 Code snippets to build Ionic React Plugin widgets.
 
-Classicpress Snippets is meant to help VS Code users to leverage snippets from ClassicPress and WordPress for Development. This is a personal project and not an official extension from ClassicPress.net.
+Ionic React Snippets is meant to help VS Code users to leverage snippets from Ionic and React for Development. This is a personal project and not an official extension from https://ionicframework.com.
 
 <!-- ![Demo](images/elementor-work.gif) -->
 
@@ -22,9 +22,25 @@ Install via Extension Marketplace
 
 Autocomplete for:
 
-| Added Code | Number | Trigger |
-| ---------- | :----: | :-----: |
-| Hooks      |   1    | ade_ias |
+| Added Code | Number |  Trigger   |
+| ---------- | :----: | :--------: |
+| Hooks      |   0    |   ade\_    |
+| Hooks      |   1    |  ade_ias   |
+| Hooks      |   2    |   ade_ia   |
+| Hooks      |   3    |   ade_ib   |
+| Hooks      |   4    |  ade_ibtn  |
+| Hooks      |   5    |  ade_ire   |
+| Hooks      |   6    |   ade_ic   |
+| Hooks      |   7    |  ade_icbx  |
+| Hooks      |   8    |  ade_ichp  |
+| Hooks      |   9    |   ade_if   |
+| Hooks      |   10   |   ade_in   |
+| Hooks      |   11   |   ade_ii   |
+| Hooks      |   12   |   ade_il   |
+| Hooks      |   13   |   ade_ia   |
+| Hooks      |   14   |   ade_im   |
+| Hooks      |   15   | ade_imodal |
+| Hooks      |   16   |   ade_ip   |
 
 ### Details
 
