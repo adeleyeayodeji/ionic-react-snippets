@@ -6,20 +6,20 @@
   "engines": {
     "vscode": "^1.18.0"
   },
-  "publisher": "laurencebahiirwa",
+  "publisher": "adeleyeayodeji",
   "author": {
-    "name": "Laurence Bahiirwa"
+    "name": "Adeleye Ayodeji"
   },
   "license": "GPLv3",
-  "homepage": "https://github.com/bahiirwa/elementor-snippets",
+  "homepage": "https://github.com/adeleyeayodeji/ionic-react-snippets",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bahiirwa/elementor-snippets"
+    "url": "https://github.com/adeleyeayodeji/ionic-react-snippets"
   },
   "bugs": {
-    "url": "https://github.com/bahiirwa/elementor-snippets/issues"
+    "url": "https://github.com/adeleyeayodeji/ionic-react-snippets/issues"
   },
-  "icon": "images/elementor-site-logo.webp",
+  "icon": "images/logo.png",
   "keywords": [
     "WordPress",
     "Elementor",
