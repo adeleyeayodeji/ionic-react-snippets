@@ -1,6 +1,6 @@
 # Ionic React Snippets
 
-Code snippets to build Ionic React Plugin widgets.
+Code snippets to build Ionic React Projects.
 
 Ionic React Snippets is meant to help VS Code users to leverage snippets from Ionic and React for Development. This is a personal project and not an official extension from https://ionicframework.com.
 
