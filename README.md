@@ -1,65 +1,49 @@
-# ionic-react-snippets README
+# Ionic React Snippets
 
-This is the README for your extension "ionic-react-snippets". After writing up a brief description, we recommend including the following sections.
+Code snippets to build Ionic React Plugin widgets.
 
-## Features
+Classicpress Snippets is meant to help VS Code users to leverage snippets from ClassicPress and WordPress for Development. This is a personal project and not an official extension from ClassicPress.net.
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+<!-- ![Demo](images/elementor-work.gif) -->
 
-For example if there is an image subfolder under your extension project workspace:
+### How to use
 
-\!\[feature X\]\(images/feature-x.png\)
+Type `ade_` to see available autocompletions in work.
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+### Install instructions
 
-## Requirements
+Install via Extension Marketplace
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+- Open Command on Visual Studio Code (Ctrl+Shift+P on Windows or Cmd+Shift+P on Mac/OSX)
+- > ext install ionic-react-snippets
+- Wait until install complete and restart VS Code
 
-## Extension Settings
+### Features
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+Autocomplete for:
 
-For example:
+| Added Code | Number | Trigger |
+| ---------- | :----: | :-----: |
+| Hooks      |   1    | ade_ias |
 
-This extension contributes the following settings:
+### Details
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
+- License: GPLv3
+- Version: 0.0.1
+- Extension URI: https://github.com/adeleyeayodeji/ionic-react-snippets
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+Known issues at avaialble at the [Github Repo](https://github.com/adeleyeayodeji/ionic-react-snippets/issues)
+
+---
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+All notable changes to the "ionic-react-snippets" extension will be documented in here and in the details found in the changelog file.
 
-### 1.0.0
+## 0.0.1 [23.11.2020]
 
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- Initial release
 
 **Enjoy!**
