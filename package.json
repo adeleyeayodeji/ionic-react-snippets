@@ -1,0 +1,43 @@
+{
+  "name": "ionic-react-snippets",
+  "displayName": "Ionic React Snippets",
+  "description": "Code snippets to build Ionic React Application",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "publisher": "laurencebahiirwa",
+  "author": {
+    "name": "Laurence Bahiirwa"
+  },
+  "license": "GPLv3",
+  "homepage": "https://github.com/bahiirwa/elementor-snippets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bahiirwa/elementor-snippets"
+  },
+  "bugs": {
+    "url": "https://github.com/bahiirwa/elementor-snippets/issues"
+  },
+  "icon": "images/elementor-site-logo.webp",
+  "keywords": [
+    "WordPress",
+    "Elementor",
+    "Elementor Widgets",
+    "Widgets",
+    "Elementor Controls",
+    "Controls",
+    "Page Builder"
+  ],
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
