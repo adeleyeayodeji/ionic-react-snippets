@@ -45,7 +45,7 @@ Autocomplete for:
 ### Details
 
 - License: GPLv3
-- Version: 0.0.1
+- Version: 0.0.2
 - Extension URI: https://github.com/adeleyeayodeji/ionic-react-snippets
 
 ## Known Issues
@@ -57,6 +57,10 @@ Known issues at avaialble at the [Github Repo](https://github.com/adeleyeayodeji
 ## Release Notes
 
 All notable changes to the "ionic-react-snippets" extension will be documented in here and in the details found in the changelog file.
+
+## 0.0.2 [24.11.2020]
+
+- Added more snippets
 
 ## 0.0.1 [23.11.2020]
 
