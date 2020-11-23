@@ -2,7 +2,7 @@
   "name": "ionic-react-snippets",
   "displayName": "Ionic React Snippets",
   "description": "Code snippets to build Ionic React Application",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.18.0"
   },
